@@ -1,0 +1,11 @@
+{
+  "name": "face-detection",
+  "version": "1.0.0",
+  "description": "",
+  "main": "face-api.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prasanna Jathan <prasannajathan@gmail.com>",
+  "license": "MIT"
+}
